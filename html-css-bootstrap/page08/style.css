@@ -1,0 +1,12 @@
+.w-700px{
+    width: 700px;
+}
+
+.h-800px{
+    height: 800px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}

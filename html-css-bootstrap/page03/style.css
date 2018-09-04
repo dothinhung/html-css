@@ -1,0 +1,35 @@
+.w-500px{
+    width: 200px;
+}
+
+.h-800px{
+    height: 800px;
+}
+
+.header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: goldenrod;
+    font-size:20px;
+    margin-bottom: 2px;
+}
+
+.inner-div{
+    background-color: grey;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 5px;
+}
+
+.none{
+    text-decoration: none;
+    text-align: start;
+}
+
+.list{
+    margin-top: 2px;
+    margin-left: 0px;
+}
